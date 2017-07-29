@@ -1,0 +1,2 @@
+# angular-test
+learning angular
